@@ -30,14 +30,12 @@ $(document).ready(function(){
 
 Depois de fazer a chamada, automaticamente irá inserir a máscara no input ou div, span, etc...
 
-Modificações:
-versão 1.0.2:
-   -Adicionando a propriedade 'value': tem como função retornar o valor com a mascara. Para utiliziar basta aplicar $.fn.phoneBrazil({value: "1188889999"});
-   -Adicionando a propriedade 'isInput': tem como função aplicar a mascara em um elemento direfente de input. Por padrão é 'true' e pode ser aplicado $('div').phoneBrazil({isInput: false});
+Modificações versão 1.0.2:
+   * Adicionando a propriedade 'value': tem como função retornar o valor com a mascara. Para utiliziar basta aplicar $.fn.phoneBrazil({value: "1188889999"});
+   * Adicionando a propriedade 'isInput': tem como função aplicar a mascara em um elemento direfente de input. Por padrão é 'true' e pode ser aplicado $('div').phoneBrazil({isInput: false});
 
-Modificações:
-versão 1.0.1:
-   -Adicionando a propriedade 'enable': tem como função remover as funções e maxlength aplicados no campo. Por padrão é 'true' e pode ser aplicado $('...').phoneBrazil({enable: false});
+Modificações versão 1.0.1:
+ * Adicionando a propriedade 'enable': tem como função remover as funções e maxlength aplicados no campo. Por padrão é 'true' e pode ser aplicado $('...').phoneBrazil({enable: false});
 
-versão 1.0.0:
-   -inicio do plugin.
+Criando versão 1.0.0:
+ * inicio do plugin.
