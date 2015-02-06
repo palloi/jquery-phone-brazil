@@ -3,7 +3,7 @@ jquery-phone-brazil
 
 Jquery mask phone brazil.
 
-por @palloi - palloi.hofmann@gmail.com - CSSforHTML - 20-06-2012 - http://css4html.com.br
+por @palloi - palloi.hofmann[arroba]gmail.com - CSSforHTML - 20-06-2012 - http://css4html.com.br
 @versão: 1.0.2
 
 Plugin para novo formato de telefone.
